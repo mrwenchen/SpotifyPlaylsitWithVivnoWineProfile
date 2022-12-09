@@ -1,3 +1,6 @@
 venv
-
+.ipynb_checkpoints
 Spotify_API_proposal.pdf
+spotify_keys.json
+WineYearSpotifyPlaylist.ipynb
+.cache*
